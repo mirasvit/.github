@@ -1,23 +1,18 @@
-<!-- Please replace {Please write here} with your description -->
+<!--- Provide a general summary of the issue in the Title above -->
 
-### Expected Behavior
+## Detailed Description
+<!--- Provide a detailed description of the change or addition you are proposing -->
 
-{Please write here}
+## Context
+<!--- Why is this change important to you? How would you use it? -->
+<!--- How can it benefit other users? -->
 
-### Actual Behavior
+## Possible Implementation
+<!--- Not obligatory, but suggest an idea for implementing addition or change -->
 
-{Please write here}
-
-### Steps to Reproduce (including precondition)
-
-{Please write here}
-
-### Screenshot on This Problem (if possible)
-
-{Please write here}
-
-### Your Environment
-
-- OS: {Please write here}
-- dot-github version: {Please write here}
-
+## Your Environment
+<!--- Include as many relevant details about the environment you experienced the bug in -->
+* Version used:
+* Browser Name and version:
+* Operating System and version (desktop or mobile):
+* Link to your project:
